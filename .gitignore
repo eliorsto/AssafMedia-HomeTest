@@ -1,0 +1,4 @@
+/vendor/
+.env
+log_me.txt
+errors.log

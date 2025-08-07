@@ -1,0 +1,12 @@
+{
+    "name": "elior/whatsapp-login",
+    "autoload": {
+        "psr-4": {
+            "Elior\\WhatsappLogin\\": "src/"
+        }
+    },
+    "require": {
+        "sendinblue/api-v3-sdk": "^8.4",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
